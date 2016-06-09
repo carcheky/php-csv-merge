@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>php_csv</h1>
-  <?php  ?>
+<?php require_once('functions.php'); ?>
 </body>
 </html>
